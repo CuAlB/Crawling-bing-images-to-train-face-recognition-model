@@ -10,6 +10,3 @@ It is divided into three modules.
 main.py is used to search the corresponding characters in the picture website and save them locally, the website used here is bing picture.
 face_extract.py is used to extract the face from the saved image by cascade recogniser and save it to imgs folder.
 face_match.py at the same time will be imgs in the face to grey-scale map stored in the face folder and grey-scale face images for model training, after the end of the training to open the camera to start face capture and recognition.
-
-
-Translated with www.DeepL.com/Translator (free version)
